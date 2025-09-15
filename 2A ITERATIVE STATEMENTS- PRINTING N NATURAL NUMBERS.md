@@ -20,8 +20,7 @@ To create a Python program for printing all prime numbers within a given range.
 
 ```
 python
-#Reg.NO: 212222220044
-#Name: SHRUTHI S
+
 
 r=int(input())
 for a in range(2,r+1):
